@@ -8,14 +8,17 @@ Sample queries related to DbFirst and CodeFirst, which are the most used in the 
 It is aimed that the codes that are not given priority in the design are understandable.
 The codes are in a structure that you can adapt in your projects by examining them. I hope it is useful.
 Source: #Murat Yücedağ youtube channel (Thanks to my teacher for his nice explanation.)
+
+
+
+
+
+
+
+
+
+
 -***********************************
-
-
-
-
-
-
-
 Entity framework 3 yaklaşım vardır.
 1-CodeFirst
 2-DbFirst
