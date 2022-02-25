@@ -1,5 +1,5 @@
 # Entity-Framework-Linq-Examples
--***********************************
+=>
 Entity framework has 3 approaches.
 1-CodeFirst
 2-DbFirst
@@ -18,7 +18,7 @@ Source: #Murat Yücedağ youtube channel (Thanks to my teacher for his nice expl
 
 
 
--***********************************
+=>
 Entity framework 3 yaklaşım vardır.
 1-CodeFirst
 2-DbFirst
