@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopApp_sql_mysql_entity_example
+build_property.ProjectDir = C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\ShopApp_sql_mysql_entity_example\ShopApp_sql_mysql_entity_example\

@@ -1,0 +1,11 @@
+﻿Generated model file: Model1.cs.
+Loading metadata from the database took 00:00:00.7276223.
+Generating the model took 00:00:02.2181905.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.9668011.
+Generating the model took 00:00:01.7521743.
+Added the connection string to the App.Config file.
+Writing the .edmx file took 00:00:00.0007020.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.6494122.
+Generating the model took 00:00:01.5117495.

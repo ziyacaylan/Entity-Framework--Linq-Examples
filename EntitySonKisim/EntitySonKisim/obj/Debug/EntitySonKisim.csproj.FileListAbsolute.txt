@@ -1,0 +1,16 @@
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe.config
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.pdb
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.dll
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.xml
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.AssemblyReference.cache
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Form1.resources
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Properties.Resources.resources
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.GenerateResource.cache
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.CoreCompileInputs.cache
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.CopyComplete
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.exe
+C:\Users\ziya_c\Desktop\Dersler\NetCore\Entity\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.pdb
